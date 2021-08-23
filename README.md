@@ -1,2 +1,2 @@
-# Portfolio-Website-
-This is just a practice portfolio website. I'll be using HTML and CSS for making it.
+# Counselling service website
+This is the new template of my college's CS official website.
